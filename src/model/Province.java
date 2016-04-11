@@ -22,7 +22,7 @@ public class Province {
 	}
 
 	public String getProvinceCode() {
-		return provinceCode;
+		return provinceCode;  
 	}
 
 	public void setProvinceCode(String provinceCode) {
